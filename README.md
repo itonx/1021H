@@ -17,4 +17,4 @@ https://github.com/HumanSignal/label-studio?tab=readme-ov-file#try-out-label-stu
 3. On Labeling Setup tab: Browse Template > Computer Vision > Semantic Segmentation with Masks
 4. Delete `airplan` and `Save`
 
-![alt text](resources/images/image.png)
+![alt text](docs/images/label-studio.png)
